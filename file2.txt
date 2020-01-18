@@ -1,0 +1,17 @@
+Siiiiiiiiiiiiiiiiiiiiiiiiiiiicd    : This command changes the current directory to another one.
+ls    : These programs list each given file or directory name. Directory contents are sorted alphabetically. For ls, files are by default listed in columns, sorted vertically, if the standard output is a terminal; otherwise, they are listed one per line.
+cp    : If the last argument names an existing directory, cp copies each other given file into a file with the same name in that directory. Otherwise, if only two files are given, it copies the first onto the second. It is an error if the last argument is not a directory and more than two files are given. By default, it does not copy directories.
+cat   : Concatenate files and print on the standard output.
+more  : Let us display and scroll down the output in one direction only. You can scroll page by page or line by line.
+|     : Use pipes â€œ | â€œ to redirect the output of the previous command as in input to another command.
+>     : Redirect the output to be written to a file using the redirect > create/replace file operator. If the file is not exist, it will be created.
+>>    : Redirect the output to be written to a file using the redirect >> create/append to file operator. If the file is not exist, it will be created.
+mkdir : mkdir creates a directory with each given name. By default, the mode of created directories is 0777 minus the bits set in the umask.
+rmdir : rmdir removes each given empty directory. If any nonoption argument does not refer to an existing empty directory, it is an error.
+mv    : If the last argument names an existing directory, mv moves each other given file into a file with the same name in that directory. Otherwise, if only two files are given, it moves the first onto the second. It is an error if the last argument is not a directory and more than two files are given. It can move only regular files across file systems. If a destination file is unwritable, the standard input is a tty, and the â€“f or --force option is not given, mv prompts the user for whether to overwrite the file. If the response does not begin with y or Y, the file is skipped.
+rm    : rm removes each specified file. By default, it does not remove directories. If a file is unwritable, the standard input is a tty, and the -f or --force option is not given, rm prompts the user for whether to remove the file. If the response does not begin with y or Y, the file is skipped. rm can be used to remove directories and its subdirectories and files recursively suing option -r
+args  : List all command arguments
+date  : To display the date and time of the system. The format for setting date is [yyyy/MM/dd HH:mm:ss]
+pwd   : Display current user directory.
+clear : This command can be called to clear the current terminal screen and it can be redirected to clear the screen of some other terminal.
+exit : Stop all

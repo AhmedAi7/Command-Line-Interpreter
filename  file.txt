@@ -1,0 +1,29 @@
+List of Files: 
+$RECYCLE.BIN
+100_FUJI
+AHMED
+BookF.lnk
+Comics
+Compressed
+Desktop
+Documents
+Downloads
+DSCF0836.mp4
+DSCF0838.mp4
+FCI
+Flutter & Dart Development For Building iOS and Android Apps
+Games
+Local Disk E_792018216
+Movies
+msdia80.dll
+msdownld.tmp
+Music
+Pro Evolution Soccer 2017.rar
+Programs
+SCCI'20
+Silverlight.exe
+System Volume Information
+Temp
+TxGameAssistant
+WUDownloadCache
+[CourseClub.NET] Udacity - Web Developer Nanodegree
